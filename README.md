@@ -67,6 +67,7 @@ oReq.send();
 
 ### Resources
 [DevLeague Slides](http://devleague.slides.com/devleague/xhr#/4/2)
+
 [MDN Docks](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 
 
