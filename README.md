@@ -16,9 +16,14 @@
 ### What is an API
 - Everytime a request a is made by the client, you are interacting with the remote server's API
 - API stands for Application Programming Interface
+- Web tool to access data or services. 
+- A software company releases its API to the public so that other software developers can design products that are powered by its service.
+- Software to software interface, appications talk to applications without the client noticing. 
+  - Movie ticket example
+    - When you buy ticket through website, an API request is made to a remote application(stripe, paypal) to verify and process your credit card information
+    - This is all behind the scenes that the client does not know about
 ![diagram 1](http://sahilsk.github.io/images/api-client.png)
 ![Diagram 2](http://diy-visualpedia.s3.amazonaws.com/API-diagram-02.png)
-- We make request to the API and recieve data back
 - There are tons of API's from big and small companies where they offer data or services
 - We will be using XHR to make request to api endpoint
 - Endpoints are url's that have data in JSON format
