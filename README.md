@@ -1,4 +1,4 @@
-# teaching-XHR
+# XHR/API Demo
 
 ### Basic concept of how Internet works
 - What is a server?
