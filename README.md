@@ -66,7 +66,7 @@ function reqListener () {
 
 var oReq = new XMLHttpRequest();
 oReq.addEventListener("load", reqListener);
-oReq.open("GET", "http://www.google.com");
+oReq.open("GET", "https://swapi.co/api/people/1");
 oReq.send();
 ```
 
